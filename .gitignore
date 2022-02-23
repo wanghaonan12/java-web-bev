@@ -1,0 +1,4 @@
+# Project exclude paths
+/book-online/target/
+/queststart/target/
+/target/
